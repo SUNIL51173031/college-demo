@@ -1,4 +1,4 @@
 # college-demo
 This is my first repository.
 <br>
-Author-SUNIL PATEL
+Author-SUNIL PATEL(Student of college)
